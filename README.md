@@ -15,9 +15,3 @@ Run the code:
 java Driver
 
 Don't forget, if you edit the code then recompile it before running.
-
--- How to run from .jar file--
-
-Open the Malefiz_codeMain.jar file
-
-Note: If the file is not in this folder it wont run properly
