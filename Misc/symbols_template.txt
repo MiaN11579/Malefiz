@@ -1,0 +1,37 @@
+~~ without barricades~~
+--------W--------
+ooooooooooooooooo
+o---------------o
+ooooooooooooooooo
+--------o--------
+------ooooo------
+------o---o------
+----ooooooooo----
+----o-------o----
+--ooooooooooooo--
+--o---o---o---o--
+ooooooooooooooooo
+o---o---o---o---o
+ooooooooooooooooo
+--1---2---3---4--
+-111-222-333-444-
+--1---2---3---4--
+
+~~with barricades~~
+--------W--------
+oooooooo#oooooooo
+o---------------o
+oooooooo#oooooooo
+--------#--------
+------oo#oo------
+------o---o------
+----oo#ooo#oo----
+----o-------o----
+--ooooooooooooo--
+--o---o---o---o--
+#ooo#ooo#ooo#ooo#
+o---o---o---o---o
+ooooooooooooooooo
+--1---2---3---4--
+-111-222-333-444-
+--1---2---3---4--
